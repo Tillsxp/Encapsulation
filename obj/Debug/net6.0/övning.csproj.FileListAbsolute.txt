@@ -1,0 +1,15 @@
+C:\Users\matil\Repos\dotnet\Practise\bin\Debug\net6.0\övning.exe
+C:\Users\matil\Repos\dotnet\Practise\bin\Debug\net6.0\övning.deps.json
+C:\Users\matil\Repos\dotnet\Practise\bin\Debug\net6.0\övning.runtimeconfig.json
+C:\Users\matil\Repos\dotnet\Practise\bin\Debug\net6.0\övning.dll
+C:\Users\matil\Repos\dotnet\Practise\bin\Debug\net6.0\övning.pdb
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.csproj.AssemblyReference.cache
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.AssemblyInfoInputs.cache
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.AssemblyInfo.cs
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.csproj.CoreCompileInputs.cache
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.dll
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\refint\övning.dll
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.pdb
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\övning.genruntimeconfig.cache
+C:\Users\matil\Repos\dotnet\Practise\obj\Debug\net6.0\ref\övning.dll
