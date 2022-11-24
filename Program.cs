@@ -5,7 +5,6 @@ class Program
     {   
 
         var mobile = new Mobile ();
-        var mobile1 = new Mobile ();
 
         Console.WriteLine(@"Mobile Information:
         UserId: {0}
